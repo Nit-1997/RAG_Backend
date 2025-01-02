@@ -1,0 +1,172 @@
+INFO:root:Session ID: None, User Query: Tell me about Kinjal Goel ?, Model: gemini-1.5-flash
+INFO:root:Session ID: None, User Query: tell me about kinjal goel ?, Model: gemini-1.5-flash
+INFO:root:Session ID: None, User Query: tell me about kinjal goel, Model: gemini-1.5-flash
+INFO:root:Session ID: None, User Query: tell me about kinjal, Model: gemini-1.5-flash
+INFO:root:Session ID: None, User Query: adsg, Model: gemini-1.5-flash
+INFO:root:Session ID: None, User Query: who is kinkal, Model: gemini-1.5-flash
+INFO:root:Session ID: None, User Query: kin, Model: gemini-1.5-flash
+INFO:root:Session ID: None, User Query: kin, Model: gemini-1.5-flash
+INFO:root:Session ID: None, User Query: who is kinjal ?, Model: gemini-1.5-flash
+INFO:root:Session ID: None, User Query: who is kinjal ?, Model: gemini-1.5-flash
+INFO:root:RAG Chain chat history: []
+INFO:root:Session ID: None, User Query: who is kin, Model: gemini-1.5-flash
+INFO:root:Chat history for session bff6c45e-e5ea-4974-929c-749f88f2eebe: []
+INFO:root:RAG Chain chat history: []
+INFO:root:Chat API called
+INFO:root:Session ID: None, User Query: chat, Model: gemini-1.5-flash
+INFO:root:Chat history for session b0510dda-fb83-4a8d-8348-73990d056756: []
+INFO:root:Session ID: None, User Query: chat, Model: gemini-1.5-flash
+INFO:root:Chat history for session 8767508e-3ab5-4775-8533-a549751c7e0f: []
+INFO:root:Rag chain loaded
+INFO:root:Session ID: None, User Query: chat, Model: gemini-1.5-flash
+INFO:root:Chat history for session f423b089-f343-47c6-9b28-93c1b183286f: []
+INFO:root:Session ID: None, User Query: chat, Model: gemini-1.5-flash
+INFO:root:Chat history for session 1ccbc2bd-0fc3-4fc7-ad1c-109c9830d3de: []
+INFO:root:Session ID: None, User Query: hello, Model: gemini-1.5-flash
+INFO:root:Chat history for session a3f833ab-756a-4e39-a46e-ac4ad20b6e47: []
+INFO:root:Session ID: None, User Query: who is kin, Model: gemini-1.5-flash
+INFO:root:Chat history for session ca6932d2-f024-4f26-8b76-4d57e45070f2: []
+INFO:root:Session ID: None, User Query: who is kinjal ?, Model: gemini-1.5-flash
+INFO:root:Chat history for session 9ad4b385-e1f9-488c-ad54-fd3fa2dc5001: []
+INFO:root:Session ID: None, User Query: who is kinjal ?, Model: gemini-1.5-flash
+INFO:root:Chat history for session be81accf-ea6a-4659-92d5-25291b6f7f41: []
+INFO:root:Session ID: None, User Query: who is kinjal ?, Model: gemini-1.5-flash
+INFO:root:Chat history for session 6a11d6c5-44c9-4fe6-81ba-2b6af3334e06: []
+INFO:root:Chat history: []
+INFO:root:Chat history Messages: []
+INFO:root:Session ID: None, User Query: who is kin ?, Model: gemini-1.5-flash
+INFO:root:Chat history for session 9d1a71c4-f1f6-4c42-884a-45a2801db710: []
+INFO:root:Chat history: []
+INFO:root:Chat history Messages: []
+INFO:root:Session ID: None, User Query: who is kin ?, Model: gemini-1.5-flash
+INFO:root:Chat history for session ea46439a-9491-4eab-b6ec-59f4809dd5bf: []
+INFO:root:Chat history: []
+INFO:root:Chat history Messages: []
+INFO:root:Session ID: None, User Query: who is jin ?, Model: gemini-1.5-flash
+INFO:root:Chat history for session e16e1709-c90c-4a08-b651-2a7298c4c59f: []
+INFO:root:Chat history: []
+INFO:root:Chat history Messages: []
+INFO:root:Session ID: None, User Query: who is kinjal ?, Model: gemini-1.5-flash
+INFO:root:Chat history for session 99056fda-8ff9-4abe-aaaa-071a835d5247: []
+INFO:root:Chat history: []
+INFO:root:Chat history Messages: []
+INFO:root:Session ID: None, User Query: who is kinjal ?, Model: gemini-1.5-flash
+INFO:root:Chat history for session 1303ece3-3ede-4b86-a9c4-072e47be68ad: []
+INFO:root:Chat history: []
+INFO:root:Chat history Messages: []
+INFO:root:Session ID: None, User Query: chat, Model: gemini-1.5-flash
+INFO:root:Chat history for session 2d4b2a6e-6ff4-42e9-ab5e-13bb96ef1712: []
+INFO:root:Session ID: None, User Query: chat, Model: gemini-1.5-flash
+INFO:root:Chat history for session 63ba7f05-8f9f-490f-8bcd-6bd67c8dfb43: []
+INFO:root:Session ID: None, User Query: kinja;l, Model: gemini-1.5-flash
+INFO:root:Chat history for session 8f3bbf9a-22cd-4980-9c2c-3ef425dc0d12: []
+INFO:root:Session ID: None, User Query: who is kinjal, Model: gemini-1.5-flash
+INFO:root:Chat history for session b49d973c-d5e2-4f29-87c5-899af912bfde: []
+INFO:root:Session ID: None, User Query: who is jin, Model: gemini-1.5-flash
+INFO:root:Chat history for session e1ca689a-12ca-460d-bb2f-d6b41d50fd57: []
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 2 is greater than number of elements in index 0, updating n_results = 0
+INFO:root:Session ID: e1ca689a-12ca-460d-bb2f-d6b41d50fd57, AI Response: Please provide me with more context! I need more information to understand who you're asking about.  For example:
+
+* **Jin from what group or show?** (e.g., BTS, a K-drama, a video game, etc.)
+* **What else do you know about Jin?** (e.g.,  is he a singer, actor, character, etc.?) 
+
+The more information you give me, the better I can understand your question and give you a helpful answer. 
+
+INFO:root:Session ID: e1ca689a-12ca-460d-bb2f-d6b41d50fd57, User Query: who is kinjal ?, Model: gemini-1.5-flash
+INFO:root:Chat history for session e1ca689a-12ca-460d-bb2f-d6b41d50fd57: [{'role': 'human', 'content': 'who is jin'}, {'role': 'ai', 'content': "Please provide me with more context! I need more information to understand who you're asking about.  For example:\n\n* **Jin from what group or show?** (e.g., BTS, a K-drama, a video game, etc.)\n* **What else do you know about Jin?** (e.g.,  is he a singer, actor, character, etc.?) \n\nThe more information you give me, the better I can understand your question and give you a helpful answer. \n"}]
+INFO:root:Session ID: e1ca689a-12ca-460d-bb2f-d6b41d50fd57, AI Response: Kinjal Goel is a student pursuing an MS in Applied Business Analytics at Boston University. 
+
+Here's what we know about her based on the provided information:
+
+* **Education:** She's currently studying at Boston University, focusing on Business Analytics. 
+* **Experience:** She interned as a Business Analyst at Droisys Inc. in India. Her responsibilities included unit testing, creating wireframes, and improving the user interface.
+* **Skills:** She possesses a variety of technical skills, including Python, R, C, C++, Excel, Power BI, Tableau, and more. 
+* **Certifications:** She holds certifications related to AWS Cloud, demonstrating her proficiency in cloud computing. 
+
+It's important to note that the provided information only gives us a glimpse into her professional background and skills. 
+
+INFO:root:Session ID: e1ca689a-12ca-460d-bb2f-d6b41d50fd57, User Query: what are her core competencies ?, Model: gemini-1.5-flash
+INFO:root:Chat history for session e1ca689a-12ca-460d-bb2f-d6b41d50fd57: [{'role': 'human', 'content': 'who is jin'}, {'role': 'ai', 'content': "Please provide me with more context! I need more information to understand who you're asking about.  For example:\n\n* **Jin from what group or show?** (e.g., BTS, a K-drama, a video game, etc.)\n* **What else do you know about Jin?** (e.g.,  is he a singer, actor, character, etc.?) \n\nThe more information you give me, the better I can understand your question and give you a helpful answer. \n"}, {'role': 'human', 'content': 'who is kinjal ?'}, {'role': 'ai', 'content': "Kinjal Goel is a student pursuing an MS in Applied Business Analytics at Boston University. \n\nHere's what we know about her based on the provided information:\n\n* **Education:** She's currently studying at Boston University, focusing on Business Analytics. \n* **Experience:** She interned as a Business Analyst at Droisys Inc. in India. Her responsibilities included unit testing, creating wireframes, and improving the user interface.\n* **Skills:** She possesses a variety of technical skills, including Python, R, C, C++, Excel, Power BI, Tableau, and more. \n* **Certifications:** She holds certifications related to AWS Cloud, demonstrating her proficiency in cloud computing. \n\nIt's important to note that the provided information only gives us a glimpse into her professional background and skills. \n"}]
+INFO:root:Session ID: e1ca689a-12ca-460d-bb2f-d6b41d50fd57, AI Response: Based on the provided information, here are Kinjal's core competencies:
+
+**Technical Skills:**
+
+* **Data Analysis and Programming:** Python, R, C, C++, Advanced Excel, Power BI, Tableau, Google Colab. This demonstrates a strong foundation in data analysis, programming, and visualization tools.
+* **Cloud Computing:**  AWS Cloud Practitioner, AWS Solutions Architect, AWS Data Engineer certifications indicate expertise in cloud technologies, particularly in AWS.
+* **Web and UX Design:**  Adobe XD, Balsamiq, and Canva suggest skills in user interface and user experience design. 
+
+**Business Skills:**
+
+* **Business Analysis:** Her internship at Droisys Inc. showcased her ability to conduct analysis, create wireframes, and improve user experience.
+* **Project Management:**  Using tools like Jira for project management indicates organizational skills and experience with project workflows. 
+* **Communication and Collaboration:** The mention of being a Lead Student Representative at Amity University suggests strong communication and leadership skills.
+
+**Overall:**
+
+Kinjal's core competencies lie in the intersection of technical skills (data analysis, cloud computing, web design) and business acumen (analysis, project management, communication).  This combination makes her a strong candidate for roles requiring analytical skills, technical proficiency, and problem-solving abilities. 
+
+INFO:root:Session ID: None, User Query: which team owns insurance module , Model: gemini-1.5-flash
+INFO:root:Chat history for session e904ff9f-8a4c-4997-bccd-f37652315530: []
+INFO:root:Session ID: e904ff9f-8a4c-4997-bccd-f37652315530, AI Response: The insurance module is owned by **Team Health Guardians**.  You can contact **Sayan Dey, Vijay Ram, or Nitin Bhat** for more information. You can also reach out to the **Visit Manager team** for further details. 
+
+INFO:root:Session ID: e904ff9f-8a4c-4997-bccd-f37652315530, User Query: can you describe the insurance schema ?, Model: gemini-1.5-flash
+INFO:root:Chat history for session e904ff9f-8a4c-4997-bccd-f37652315530: [{'role': 'human', 'content': 'which team owns insurance module '}, {'role': 'ai', 'content': 'The insurance module is owned by **Team Health Guardians**.  You can contact **Sayan Dey, Vijay Ram, or Nitin Bhat** for more information. You can also reach out to the **Visit Manager team** for further details. \n'}]
+INFO:root:Session ID: e904ff9f-8a4c-4997-bccd-f37652315530, AI Response: The insurance schema has two tables:
+
+**1. `patient_insurance`:**
+
+This table stores the insurance details extracted from patient insurance cards. It uses the following structure:
+
+* **`insurance_id` (TEXT):**  A unique identifier for each insurance record.
+* **`processing_id` (TEXT):**  A unique identifier associated with the processing of the insurance card.
+* **`subscriber_name` (TEXT):** The name of the primary insured person on the card.
+* **`subscriber_id` (TEXT):** The identification number of the primary insured person.
+* **`payer_name` (TEXT):** The name of the insurance company.
+* **`payer_validation_status` (TEXT):**  Indicates the validation status of the insurance company information.
+* **`subscriber_id_validation_status` (TEXT):**  Indicates the validation status of the subscriber's identification number.
+* **`payer_id` (TEXT):** The identification number of the insurance company.
+* **`group_number` (TEXT):** The group number associated with the insurance plan.
+* **`insurance_type` (TEXT):** The type of insurance (e.g., health, dental).
+* **`insurance_card_type_code` (TEXT):** The code indicating the type of insurance card (e.g., paper, digital).
+* **`insurance_network` (TEXT):** The network associated with the insurance plan.
+* **`plan_type` (TEXT):** The type of insurance plan (e.g., HMO, PPO).
+* **`effective_date` (DATE):** The date when the insurance plan becomes effective.
+* **`insurance_validation_status` (TEXT):**  Indicates the validation status of the overall insurance information.
+* **`source` (TEXT):**  The source of the insurance information (e.g., OCR, manual entry).
+* **`member_name` (TEXT):** The name of the insured member, if different from the subscriber.
+* **`subscriber_first_name` (TEXT):** The first name of the primary insured person.
+* **`subscriber_last_name` (TEXT):** The last name of the primary insured person.
+* **`subscriber_middle_name` (TEXT):** The middle name of the primary insured person.
+* **`subscriber_date_of_birth` (TEXT):** The date of birth of the primary insured person.
+* **`relation_to_subscriber` (TEXT):** The relationship of the insured member to the subscriber (e.g., spouse, child).
+* **`carrier_name` (TEXT):** The name of the insurance carrier.
+* **`plan_id` (TEXT):** The unique identifier of the insurance plan.
+* **`image_type` (TEXT):**  The type of image (e.g., front, back).
+* **`image` (BLOB):**  The image of the insurance card (front or back).
+* **`guarantors` (frozen<guarantors>):** This field holds a frozen list of guarantors for the insurance plan.  Each guarantor is represented by the following: 
+    * `coverage_id` (TEXT):  Unique ID for the guarantor's coverage.
+    * `display_name` (TEXT): The name of the guarantor.
+    * `status` (TEXT):  The status of the guarantor's coverage.
+    * `effective_date` (DATE):  The effective date of the guarantor's coverage.
+    * `expiration_date` (DATE): The expiration date of the guarantor's coverage.
+    * `plan_name` (TEXT): The name of the guarantor's plan.
+    * `source` (TEXT): The source of the guarantor's information.
+
+**2. `patient_lookup_by_id_type`:**
+
+This table is used for mapping patient IDs with their corresponding insurance records in the `patient_insurance` table.  It has the following structure:
+
+* **`patient_id` (TEXT):**  The unique patient identifier.
+* **`id_type` (TEXT):** The type of the patient identifier (e.g., MRN, RETAIL_PROFILE_ID).
+* **`insurance_id` (TEXT):** The corresponding insurance record identifier from the `patient_insurance` table. 
+
+**Key Features:**
+
+* **Composite Primary Keys:**  The `patient_insurance` table uses `insurance_id` as its primary key.  The `patient_lookup_by_id_type` table uses a composite primary key combining `patient_id` and `id_type`.
+* **Data Validation:** The schema includes fields for validation statuses, indicating whether certain data elements have been successfully verified.
+* **Guarantor Information:** The `patient_insurance` table allows for storing multiple guarantor details for a given insurance plan.
+* **Image Storage:** The `patient_insurance` table stores the images of insurance cards, enabling easy retrieval and verification.
+
+
+This schema helps in efficiently storing and retrieving patient insurance information within the application. 
+
