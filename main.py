@@ -2,13 +2,12 @@ import logging
 import uuid
 
 from fastapi import FastAPI
-from langchain_core.messages import HumanMessage
 
-from chroma_utils import index_document_to_chroma, delete_doc_from_chroma
+from vectorDB_utils import index_document_to_chroma, delete_doc_from_chroma
 from db_utils import insert_application_logs, get_chat_history, get_all_documents, insert_document_record, \
     delete_document_record
 from langchain_utils import get_rag_chain
-from pydantic_models import QueryInput, QueryResponse, DocumentInfo, DeleteFileRequest
+from models import QueryInput, QueryResponse, DocumentInfo, DeleteFileRequest
 
 logging.basicConfig(filename='app.log', level=logging.INFO)
 app = FastAPI()

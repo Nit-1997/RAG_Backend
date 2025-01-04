@@ -1,23 +1,13 @@
-from langchain.chains.question_answering.map_reduce_prompt import messages
-from langchain_core.messages import SystemMessage, HumanMessage
-from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain.chains import create_history_aware_retriever, create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_google_vertexai import ChatVertexAI
-from typing import List
-from langchain_core.documents import Document
-import os
 
-from pydantic import SecretStr
-
-from chroma_utils import vectorstore
+from vectorDB_utils import vectorstore
 retriever = vectorstore.as_retriever(search_kwargs={"k": 2})
 
 output_parser = StrOutputParser()
-
-
 
 
 # Set up prompts and chains
